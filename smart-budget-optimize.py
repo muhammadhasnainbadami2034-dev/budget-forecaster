@@ -117,7 +117,7 @@ class BudgetTracker:
 # --- STREAMLIT UI SETUP ---
 st.set_page_config(page_title="Dynamic Budget Forecaster", layout="wide")
 
-st.title("🧠 Dynamic Budget Forecaster")
+st.title("Dynamic Budget Forecaster")
 st.markdown("Predict future financial horizons using historical multi-month statements.")
 st.markdown("---")
 
