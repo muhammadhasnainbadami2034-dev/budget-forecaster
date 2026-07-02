@@ -145,7 +145,7 @@ with st.sidebar:
         st.session_state['last_uploaded'] = uploaded_files
 
     st.markdown("---")
-    submit_btn = st.button("🚀 Start Predicting", use_container_width=True)
+    submit_btn = st.button("Start Predicting", use_container_width=True)
 
 # Process verification sequence 
 if uploaded_files:
